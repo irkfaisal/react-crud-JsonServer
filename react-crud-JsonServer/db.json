@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Md Faisal Raza Khan",
+      "username": "faisal",
+      "email": "irkfaisal@gmail.com",
+      "phone": "7001551926",
+      "website": "irkfaisal.com",
+      "id": 1
+    },
+    {
+      "name": "M S Dhoni ",
+      "username": "Dhoni",
+      "email": "msdhoni@gmail.com",
+      "phone": "0123456789",
+      "website": "msdhoni.com",
+      "id": 2
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "username": "iamsrk",
+      "email": "iamsrk@gmail.com",
+      "phone": "9876543210",
+      "website": "iamsrk.com",
+      "id": 3
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "kohli",
+      "email": "vrkohli@gmail.com",
+      "phone": "0147852369",
+      "website": "vrkohli.com",
+      "id": 4
+    },
+    {
+      "name": "John Deo",
+      "username": "Deo",
+      "email": "jd@gamil.com",
+      "phone": "3698527410",
+      "website": "jd.com",
+      "id": 5
+    }
+  ]
+}
